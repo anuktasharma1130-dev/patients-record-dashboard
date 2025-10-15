@@ -11,3 +11,9 @@ npm install
 
 3. Start the app:
 npm run start
+
+"C:\Users\ANUKTAA\OneDrive\Pictures\Screenshots\Screenshot (6).png"
+"C:\Users\ANUKTAA\OneDrive\Pictures\Screenshots\Screenshot (7).png"
+"C:\Users\ANUKTAA\OneDrive\Pictures\Screenshots\Screenshot (8).png"
+"C:\Users\ANUKTAA\OneDrive\Pictures\Screenshots\Screenshot (9).png"
+"C:\Users\ANUKTAA\OneDrive\Pictures\Screenshots\Screenshot (10).png"
